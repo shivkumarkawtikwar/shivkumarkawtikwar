@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shivkumarkawtikwar
 - 👀 I’m interested in problem solving
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on 
 - 📫 Reach out to me on my Linked-in profile https://www.linkedin.com/in/shivkumar-kawtikwar/
 
 <!---
